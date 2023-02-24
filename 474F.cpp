@@ -157,7 +157,6 @@ void solve()
 		cin >> arr[i];
 	build(0, n - 1, 1);
 	cin >> m;
-	//cout << 'a';
 	while (m--)
 	{
 		int a, b;
